@@ -8,6 +8,10 @@ h1 {
   border-radius: 4px;
 }
 
+.container{
+  text-align: center;
+}
+
 div {
   padding: 20px;
 }
